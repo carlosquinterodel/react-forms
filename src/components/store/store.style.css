@@ -1,0 +1,11 @@
+.store-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 650px;
+    border: 4px solid  olive;
+    margin-top: 10px;
+    border-style:
+    inset;
+    background: azure;
+
+}

@@ -1,0 +1,12 @@
+.create-client-container{
+    width: 50%;
+    margin: 0 auto;
+    min-height: 200px;
+    border: 1.5px solid red;
+    margin-top: 10px;
+
+}
+
+create-client-container{
+    margin: 0 auto;
+}
